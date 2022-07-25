@@ -1,0 +1,25 @@
+body{
+	background: white;
+}
+.imgbro{
+	width: 20px;
+}
+
+
+.venta1 {DISPLAY: flex;
+	width: 100VW;
+	height:70VW;
+}
+header{
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    background: gold;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    background: gold;
+}
