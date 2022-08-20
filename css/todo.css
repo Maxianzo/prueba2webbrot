@@ -1,25 +1,56 @@
+
+
+.page-top{
+	background: gold;
+}
+
 body{
-	background: white;
+	background-image: url(assets/img/logodorado.png);
 }
 .imgbro{
 	width: 20px;
 }
 
 
-.venta1 {DISPLAY: flex;
-	width: 100VW;
-	height:190VW;
+.venta1 {       width: 100%;
+    margin-top: 30%;
+    height: 567px;
+}
+.logomillon{
+	width: 200px;
+}
 }
 header{
 	display: flex;
 	flex-direction: column;
     align-items: center;
-    background: gold;
+
 }
 
-section {
+.section1 {
 	display: flex;
 	flex-direction: column;
     align-items: center;
     background: gold;
+    border-radius: 7%;
+    text-align: center;
+}
+.section2 {
+	display: flex;
+	flex-direction: column;
+    
+    background: white;
+    border-radius: 7%;
+ text-align: center;
+}
+.tamgr{
+	font-size: 4.25rem;
+	    color: darkgoldenrod;
+}
+.tamgr2{
+	    font-size: 2.75rem;
+}
+.contador{
+	height: 100vw;
+	width: 100vw;
 }
