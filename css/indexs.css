@@ -1,0 +1,47 @@
+body{
+	background: linear-gradient(-141deg,yellow,#700f70);
+}
+
+h2{
+  margin: auto;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.imag2{        width: 25%;
+    height: 25%;
+}
+.imag3{width:10px;
+height: 20px;
+margin: auto;
+}
+
+.nacional {
+       background: palegoldenrod;
+    /* padding: 16px; */
+    width: 57%;
+    margin: auto;
+    border-radius: 57px;
+    box-shadow: 10px 10px 10px 0px #000;
+    border: 3px inset #000;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imag {
+  display: inline-block;
+  width:250px;
+height: 270px;
+    margin: auto;}
+    footer{
+  display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+.app{
+	display: flex;
+	flex-direction: column;
+background: white ;}
