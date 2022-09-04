@@ -8,6 +8,11 @@ h2{
     font-size: 30px;
 }
 
+
+
+.imag6{height: 41px;
+
+}
 .imag2{        width: 25%;
     height: 25%;
 }
@@ -16,20 +21,26 @@ height: 20px;
 margin: auto;
 }
 
+.terminos{
+  background: palegoldenrod;
+  color: black;
+}
 .nacional {
-       background: palegoldenrod;
-    /* padding: 16px; */
+       color: black;
+    background: gold;
+    padding: 11px;
     width: 57%;
-    margin: auto;
+   
     border-radius: 57px;
     box-shadow: 10px 10px 10px 0px #000;
     border: 3px inset #000;
-    font-size: 20px;
+    font-size: 15px;
     text-transform: uppercase;
     text-align: center;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    align-items: baseline;
+    text-decoration: none;
 }
 .imag {
   display: inline-block;
