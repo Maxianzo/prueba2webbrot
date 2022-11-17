@@ -1,0 +1,75 @@
+body{
+	background: linear-gradient(-141deg,yellow,#700f70);
+}
+
+h2{
+  margin: auto;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+
+
+.imag6{height: 41px;
+
+}
+.imag2{        width: 25%;
+    height: 25%;
+}
+.imag3{width:10px;
+height: 20px;
+margin: auto;
+}
+
+.terminos{
+  background: palegoldenrod;
+  color: black;
+}
+.nacional {
+	color: black;
+background: gold;
+padding: 7px;
+/* width: 57%; */
+margin: 34px;
+border-radius: 57px;
+box-shadow: 10px 10px 10px 0px #000;
+border: 3px inset #000;
+font-size: 15px;
+text-transform: uppercase;
+text-align: center;
+display: flex;
+flex-direction: row;
+align-items: baseline;
+text-decoration: none;
+}
+
+.nacional:active {
+  transform: scale(0.98);
+  /* Scaling button to 0.98 to its original size */
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+  /* Lowering the shadow */
+}
+.strem{
+      width: 100%;
+}
+.imag {
+  display: inline-block;
+  width:307px;
+height: 270px;
+    margin: auto;}
+.imag2 {
+  display: inline-block;
+  width:307px;
+height: 69px;
+    margin: auto;}
+
+footer{
+  display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+.app{
+	display: flex;
+	flex-direction: column;
+  margin: -23px;
+}
